@@ -37,4 +37,4 @@ Everything must be historically accurate or plausible for Lincolnshire in 1217, 
 - No modern narrative framing unless explicitly requested.
 
 ## 8. STRUCTURE
-- Always provide a one paragraphy summary at the begging of your response.
+- Always provide a one paragraphy summary at the beginning of your response.
