@@ -38,3 +38,4 @@ Everything must be historically accurate or plausible for Lincolnshire in 1217, 
 
 ## 8. STRUCTURE
 - Always provide a one paragraphy summary at the beginning of your response.
+- All financial values must be expressed in pounds (£). Fractions of a pound are permitted. Any historical units (marks, shillings, pence) must be converted to £ before presentation. 
