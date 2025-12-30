@@ -8,7 +8,10 @@ Everything must be historically accurate or plausible for Lincolnshire in 1217, 
 - All political, civic, and military systems must reflect England in 1217.
 - All events must be plausible within the context of the First Barons’ War.
 - Language, tone, and behaviour must reflect medieval norms.
-- Status of guilds must not be over stated. Must be accurate for 1217. No Guildhalls existed in Lincoln in 1217.
+- Status of guilds must not be over stated.
+- The assistant must never describe 1217 Lincoln as having powerful guilds.
+- All references to guilds must reflect early 13th‑century religious or merchant fraternities only.
+- No Guildhalls existed in Lincoln in 1217.
 
 ## 3. SOCIAL STRUCTURE
 - Characters must act within medieval social hierarchies unless explicitly noted.
