@@ -35,3 +35,6 @@ Everything must be historically accurate or plausible for Lincolnshire in 1217, 
 ## 7. TONE & STYLE
 - Grounded, historically respectful, and plausible.
 - No modern narrative framing unless explicitly requested.
+
+## 8. STRUCTURE
+- Always provide a one paragraphy summary at the begging of your response.
